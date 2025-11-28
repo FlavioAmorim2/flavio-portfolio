@@ -32,7 +32,7 @@ export const projects: Project[] = [
     title: "Hexatech Engenharia integrada LTDA",
     description: "Site de alta perfomance focado na experiência do usuário e no SEO.",
     technologies: ["React", "TypeScript", "Tailwind CSS", "Email.js"],
-    demoUrl: "https://investment-calculator-rjlqteghe-flavioamorim2s-projects.vercel.app",
+    demoUrl: "https://www.hexatech.com.br/",
     status: "Completo",
   },
   {
